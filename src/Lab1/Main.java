@@ -1,8 +1,12 @@
 package Lab1;
 
+/**
+ * Start the Game of guessing
+ * @author Pimwalun
+ */
 public class Main {
+	/** create objects and start the game */
 	public static void main(String[] args) {
-//		System.out.println("I'm thinking of a number between 1 to 20");
 		GuessingGame game = new GuessingGame(20);
 		GameConsole ui = new GameConsole();
 		ui.play(game);
