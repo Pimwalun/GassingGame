@@ -4,7 +4,7 @@ import java.util.Random; // for random number
 
 /**
  * Game of guessing a secret number.
- * @author Pimwalun
+ * @author Pimwalun Witchawanitchanun
  */
 public class GuessingGame {
 	/* properties of a guessing game */

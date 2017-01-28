@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  * GameConsole has to ask the GuessingGame if a user's guess is correct, and ask for hint
- * @author Pimwalun
+ * @author Pimwalun Witchawanitchanun
  *
  */
 public class GameConsole {

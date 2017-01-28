@@ -2,7 +2,7 @@ package lab1;
 
 /**
  * This is main method start the Game of guessing
- * @author Pimwalun
+ * @author Pimwalun Witchawanitchanun
  */
 public class Main {
 	/** create objects and start the game */
