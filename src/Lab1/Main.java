@@ -1,7 +1,7 @@
-package Lab1;
+package lab1;
 
 /**
- * Start the Game of guessing
+ * This is main method start the Game of guessing
  * @author Pimwalun
  */
 public class Main {

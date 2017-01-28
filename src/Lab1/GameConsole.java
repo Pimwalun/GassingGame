@@ -1,4 +1,4 @@
-package Lab1;
+package lab1;
 
 import java.util.Scanner;
 
@@ -11,7 +11,7 @@ public class GameConsole {
 	
 	/**
 	 * The play method plays a game using input from a user.
-	 * @param game pull the class GuessingGame 
+	 * @param game pulls the class GuessingGame 
 	 * @return the secret number when user guesses it.
 	 */
 	public int play(GuessingGame game) {

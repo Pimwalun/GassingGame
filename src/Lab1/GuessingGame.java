@@ -1,4 +1,4 @@
-package Lab1;
+package lab1;
 
 import java.util.Random; // for random number
 
@@ -6,7 +6,6 @@ import java.util.Random; // for random number
  * Game of guessing a secret number.
  * @author Pimwalun
  */
-
 public class GuessingGame {
 	/* properties of a guessing game */
 	private int upperBound;
@@ -22,7 +21,6 @@ public class GuessingGame {
 		this.upperBound = upperBound;
 		this.secret = getRandomNumber(upperBound);
 		this.hint = "I'm thinking of a number between 1 and " + upperBound;
-
 	}
 	
 	/**
@@ -30,7 +28,6 @@ public class GuessingGame {
 	 * @param limit is the upper limit for random number
 	 * @return a random number between 1 and limit (inclusive)
 	 */
-
 	private int getRandomNumber(int limit) {
 		long seed = System.currentTimeMillis();
 		Random rand = new Random(seed);
