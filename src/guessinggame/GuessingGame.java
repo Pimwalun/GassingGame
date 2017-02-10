@@ -1,4 +1,4 @@
-package lab1;
+package guessinggame;
 
 import java.util.Random; // for random number
 
