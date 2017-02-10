@@ -1,4 +1,4 @@
-package lab1;
+package guessinggame;
 
 /**
  * This is main method start the Game of guessing
